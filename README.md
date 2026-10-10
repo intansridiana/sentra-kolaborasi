@@ -16,3 +16,4 @@ uji langsung
 uji langsung
 uji langsung
 uji langsung
+ - healthcheck.sh - memeriksa status layanan
